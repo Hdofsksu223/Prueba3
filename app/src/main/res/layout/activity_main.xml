@@ -73,7 +73,7 @@
             android:inputType="text" />
 
         <TextView
-            android:id="@+id/tvBlank2"
+            android:id="@+id/tvVacio"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
@@ -90,7 +90,7 @@
                 android:text="Grabar" />
 
             <TextView
-                android:id="@+id/tvBlank"
+                android:id="@+id/tvVacio2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1" />
